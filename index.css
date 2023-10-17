@@ -1,0 +1,33 @@
+#logo{
+
+    height: 30px;
+    width: 30px;
+    padding-right: 5px;
+    
+
+}
+
+#news_word{
+    color: orange;
+}
+
+.nav-item a:hover{
+    color: orange;
+}
+#feeds:hover{
+    color: orange;
+}
+
+
+#search_btn{
+    color: black;
+    border-color: orange;
+}
+
+#search_btn:hover{
+    background-color: orange; 
+}
+
+
+
+
